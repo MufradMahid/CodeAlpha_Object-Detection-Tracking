@@ -4,6 +4,8 @@ This project implements real-time object detection and tracking using YOLOv8 and
 
 🚀 Task 4: Object Detection and Tracking
 
+“In this demo, I am using a video file as input instead of a live webcam.”
+
 ## Description
 This project performs real-time object detection and tracking using YOLOv8 and Deep SORT.
 Detected objects are assigned unique IDs and tracked across video frames.
